@@ -38,7 +38,7 @@ Para contribuir com o Classificador SVM para COVID Longa, siga os passos abaixo:
 5. Abra um Pull Request
 
 ## Licença
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+Distribuído sob a licença MIT. Veja esse [link](https://github.com/FelipePassarela/classificador-SVM-para-COVID-longa/tree/main?tab=MIT-1-ov-file#MIT-1-ov-file) para mais informações.
 
 ## Contato
 Para qualquer dúvida, sugestão ou colaboração, sinta-se à vontade para entrar em contato:
