@@ -1,7 +1,7 @@
 # Classificador SVM para COVID Longa
 
 ## Visão Geral
-Bem-vindo ao Classificador SVM para COVID Longa, desenvolvido por Felipe dos Santos Passarela do Laboratório NGHM da Universidade Federal do Espírito Santo (UFES). Este projeto tem como objetivo contribuir para a compreensão da COVID Longa por meio do desenvolvimento de um classificador Support Vector Machine (SVM). 
+Bem-vindo ao Classificador SVM para COVID Longa, desenvolvido por Felipe dos Santos Passarela do Laboratório NGHM da Universidade Federal do Espírito Santo (UFES). Este projeto é uma parte fundamental de uma pesquisa em andamento e tem como objetivo contribuir para a compreensão da COVID Longa por meio do desenvolvimento de um classificador Support Vector Machine (SVM). 
 
 **!!! O programa está atualmente em fase de desenvolvimento ativo, e vai passar por diversas mudanças até a versão final. !!!**
 
